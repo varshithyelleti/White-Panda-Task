@@ -1,0 +1,154 @@
+/*Header*/
+.CompanyLogo{
+  padding: 5px 0px 0px 0px;
+  height:40px;
+  width: 150px;
+}
+
+.HeaderNav {
+  margin-left: 120px; 
+  padding: 10px 10px;
+   
+}
+.Bell
+{
+  margin-left: 1100px; 
+  padding: 10px 10px; 
+}
+/*Store Content Block*/
+.StoreContent
+{
+    padding: 80px 0px 70px 100px; 
+}
+
+.StoreBlock
+{
+    width: 1050px;
+    background-color: #F9FBFA;
+    padding: 30px 10px 10px 30px;
+    margin-left: 40px;
+    
+}
+.StoreBlock p
+{
+    font-size: 16px;
+    padding: 5px;
+}
+.StoreButton
+{
+  background-color:transparent;
+  padding: 10px 30px 10px 30px;
+  color:#39BDB2;
+  border: 1px solid #39BDB2;
+  border-radius:7px;
+}
+.StoreBlock #StoreLink
+{
+     color: #9ea1a8;
+    text-decoration: underline;
+}
+/*Store Item*/
+
+
+.StoreItem
+{
+    height: 300px;
+    width: 340px;
+    background-color: white;
+    padding: 30px;
+    margin: 30px 0px 30px 0px;
+   border-radius: 8px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.13);
+}
+
+.StoreItem p
+{
+    padding: 5px;
+    color: #9ea1a8;
+}
+
+.StoreItem #ImageContent
+{
+    margin-left: 20px;
+    margin-top: 10px;
+    
+    color: #9ea1a8;
+}
+
+
+
+.StoreItemImage
+{
+    margin: 5px;
+}
+
+.StoreOrder
+{
+  background-color:transparent;
+  padding: 8px 30px 8px 35px;
+  color:#39BDB2;
+    margin-left: 5px;
+  border: 2px solid #39BDB2;
+  border-radius:3px;
+}
+
+/*Side Navigation Bar*/
+.sidenav {
+  height: 100%; 
+  width: 60px; 
+  position: fixed; 
+  z-index: 1; 
+  top: 0; 
+  left: 0;
+  background-color: white; 
+  overflow-x: hidden; 
+  padding-top: 100px;
+  box-shadow: 5px 0 5px -5px #ebebeb;
+}
+
+.sidenav a {
+  padding: 25px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 10px;
+  color: #777;
+  display: block;
+  text-align: center;
+
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav_icons{
+  color: #3ebcb3;
+}
+
+
+/*Footer*/
+#footer i
+{
+    color:  #9ea1a8;
+    padding: 10px 30px 15px 30px;
+}
+#footer .FooterLine
+{
+    color:  #9ea1a8;
+    padding: 10px;
+}
+#footer #FooterLinks
+{
+    color:  #9ea1a8;
+}
+
+#footer  a:link{
+  text-decoration:underline;
+  color: #9ea1a8;
+  padding:10px;
+}
+
+#footer span
+{
+    color:  #9ea1a8;
+    padding: 10px;
+}
